@@ -1,0 +1,9 @@
+c:\users\makshakov\documents\visual studio 2010\Projects\DNS\DNS\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\makshakov\documents\visual studio 2010\Projects\DNS\DNS\obj\x86\Debug\DNS.Properties.Resources.resources
+c:\users\makshakov\documents\visual studio 2010\Projects\DNS\DNS\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\makshakov\documents\visual studio 2010\Projects\DNS\DNS\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\makshakov\documents\visual studio 2010\Projects\DNS\DNS\obj\x86\Debug\DNS.Form1.resources
+c:\users\makshakov\documents\visual studio 2010\Projects\DNS\DNS\bin\Debug\DNS.exe
+c:\users\makshakov\documents\visual studio 2010\Projects\DNS\DNS\bin\Debug\DNS.pdb
+c:\users\makshakov\documents\visual studio 2010\Projects\DNS\DNS\obj\x86\Debug\DNS.exe
+c:\users\makshakov\documents\visual studio 2010\Projects\DNS\DNS\obj\x86\Debug\DNS.pdb
